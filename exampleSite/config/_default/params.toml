@@ -10,27 +10,27 @@ description = "The Most Affordable Ecommerce Site For Filipino Online Seller Sta
 enable = false
 id = ""
 
-[crispchat]
-id = ""
-enable = false
-
-[logo]
-image = "/images/logo.png"
-height = "14"
-
 [brand]
 enable = true
-name = "Thriftshop"
-tag = "SITE"
+name = "The Juan"
+tag = "SHOP"
 
 [brand.font]
 name = "aguafina"
 tag = "steel"
 
+[logo]
+image = "/images/logo.png"
+height = "14"
+
 [cover_photo]
 color = "white"
 shade = ""
 font = "aguafina"
+
+[crispchat]
+id = ""
+enable = false
 
 [placeholder]
 cover_photo = "https://cdn.pixabay.com/photo/2015/03/26/09/40/business-suit-690048_960_720.jpg"
